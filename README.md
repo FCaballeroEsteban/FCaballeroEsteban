@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabián Caballero Esteban</h1>
-<h3 align="center">Hola a Todos mi nombre es Fabián Caballero Esteban, tengo 21 años tengo un poco de conocimiento en programación, y gracias a Campus espero poder desarrollar nuevas habilidades en el campo de desarrollo de software 😄</h3>
+<h3 align="center">Hola a Todos mi nombre es Fabián Caballero Esteban, tengo 21 años tengo un poco de conocimientos en programación  😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcaballeroesteban&label=Profile%20views&color=0e75b6&style=flat" alt="fcaballeroesteban" /> </p>
 
